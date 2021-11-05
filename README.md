@@ -25,3 +25,11 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Resulte
+----
+
+![Screenshot (30)](https://user-images.githubusercontent.com/92260346/140490183-f8ef1b69-291f-47ee-9c6c-5b8ce729d754.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/92260346/140490205-6c3d8084-34c7-430c-b51c-30161fab745a.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/92260346/140490215-39ae3206-22ec-4153-b03a-774bdee3fb58.png)
+
